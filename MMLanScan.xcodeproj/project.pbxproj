@@ -8,24 +8,24 @@
 
 /* Begin PBXBuildFile section */
 		5426BC6B1E766603003D7F4B /* data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5426BC511E766603003D7F4B /* data.plist */; };
-		5426BC6C1E766603003D7F4B /* MacFinder.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC541E766603003D7F4B /* MacFinder.h */; };
+		5426BC6C1E766603003D7F4B /* MacFinder.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC541E766603003D7F4B /* MacFinder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5426BC6D1E766603003D7F4B /* MacFinder.m in Sources */ = {isa = PBXBuildFile; fileRef = 5426BC551E766603003D7F4B /* MacFinder.m */; };
-		5426BC6E1E766603003D7F4B /* if_arp.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC571E766603003D7F4B /* if_arp.h */; };
-		5426BC6F1E766603003D7F4B /* if_ether.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC581E766603003D7F4B /* if_ether.h */; };
-		5426BC701E766603003D7F4B /* route.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC591E766603003D7F4B /* route.h */; };
-		5426BC711E766603003D7F4B /* SimplePing.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC5B1E766603003D7F4B /* SimplePing.h */; };
+		5426BC6E1E766603003D7F4B /* if_arp.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC571E766603003D7F4B /* if_arp.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5426BC6F1E766603003D7F4B /* if_ether.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC581E766603003D7F4B /* if_ether.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5426BC701E766603003D7F4B /* route.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC591E766603003D7F4B /* route.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5426BC711E766603003D7F4B /* SimplePing.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC5B1E766603003D7F4B /* SimplePing.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5426BC721E766603003D7F4B /* SimplePing.m in Sources */ = {isa = PBXBuildFile; fileRef = 5426BC5C1E766603003D7F4B /* SimplePing.m */; };
-		5426BC731E766603003D7F4B /* LANProperties.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC5E1E766603003D7F4B /* LANProperties.h */; };
+		5426BC731E766603003D7F4B /* LANProperties.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC5E1E766603003D7F4B /* LANProperties.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5426BC741E766603003D7F4B /* LANProperties.m in Sources */ = {isa = PBXBuildFile; fileRef = 5426BC5F1E766603003D7F4B /* LANProperties.m */; };
-		5426BC751E766603003D7F4B /* MACOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC601E766603003D7F4B /* MACOperation.h */; };
+		5426BC751E766603003D7F4B /* MACOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC601E766603003D7F4B /* MACOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5426BC761E766603003D7F4B /* MACOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 5426BC611E766603003D7F4B /* MACOperation.m */; };
-		5426BC771E766603003D7F4B /* MMLANScanner.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC621E766603003D7F4B /* MMLANScanner.h */; };
+		5426BC771E766603003D7F4B /* MMLANScanner.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC621E766603003D7F4B /* MMLANScanner.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5426BC781E766603003D7F4B /* MMLANScanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 5426BC631E766603003D7F4B /* MMLANScanner.m */; };
-		5426BC791E766603003D7F4B /* NetworkCalculator.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC641E766603003D7F4B /* NetworkCalculator.h */; };
+		5426BC791E766603003D7F4B /* NetworkCalculator.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC641E766603003D7F4B /* NetworkCalculator.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5426BC7A1E766603003D7F4B /* NetworkCalculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 5426BC651E766603003D7F4B /* NetworkCalculator.m */; };
-		5426BC7B1E766603003D7F4B /* PingOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC661E766603003D7F4B /* PingOperation.h */; };
+		5426BC7B1E766603003D7F4B /* PingOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC661E766603003D7F4B /* PingOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5426BC7C1E766603003D7F4B /* PingOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 5426BC671E766603003D7F4B /* PingOperation.m */; };
-		5426BC7D1E766603003D7F4B /* Device.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC691E766603003D7F4B /* Device.h */; };
+		5426BC7D1E766603003D7F4B /* Device.h in Headers */ = {isa = PBXBuildFile; fileRef = 5426BC691E766603003D7F4B /* Device.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5426BC7E1E766603003D7F4B /* Device.m in Sources */ = {isa = PBXBuildFile; fileRef = 5426BC6A1E766603003D7F4B /* Device.m */; };
 /* End PBXBuildFile section */
 
@@ -421,6 +421,7 @@
 				5426BC4F1E7665F0003D7F4B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
