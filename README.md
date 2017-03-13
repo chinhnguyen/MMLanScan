@@ -5,6 +5,12 @@ Carthage support for [MMLanScan](https://github.com/mavris/MMLanScan) by Micheal
 
 # Usage 
 
+Add this to `Cartfile`:
+
+```
+github "chinhnguyen/MMLanScan" ~> 0.2
+```
+
 Add below line to your *-Bridging-Header.h
 
 
